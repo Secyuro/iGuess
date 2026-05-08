@@ -1,0 +1,246 @@
+{
+    "A": [
+    "Aegypten",
+    "Aequatorialguinea",
+    "Aethiopien",
+    "Afghanistan",
+    "Albanien",
+    "Algerien",
+    "Andorra",
+    "Angola",
+    "Antigua und Barbuda",
+    "Argentinien",
+    "Armenien",
+    "Aserbaidschan",
+    "Australien"
+  ],
+
+  "B": [
+    "Bahrain",
+    "Bangladesch",
+    "Barbados",
+    "Belgien",
+    "Belize",
+    "Benin",
+    "Bhutan",
+    "Birma",
+    "Bolivien",
+    "Bosnien und Herzegowina",
+    "Botswana",
+    "Brasilien",
+    "Brunei",
+    "Bulgarien",
+    "Burkina Faso",
+    "Burundi"
+  ],
+  "C": [
+    "Chile",
+    "China",
+    "Costa Rica"
+  ],
+  "D": [
+    "Demokratische Republik Kongo",
+    "Deutschland",
+    "Die Bahamas",
+    "Dominica",
+    "Dominikanische Republik",
+    "Dschibuti",
+    "Dänemark"
+  ],
+  "E": [
+    "Ecuador",
+    "El Salvador",
+    "Elfenbeinküste",
+    "Eritrea",
+    "Estland",
+    "Eswatini"
+  ],
+  "F": [
+    "Fidschi",
+    "Finnland",
+    "Frankreich"
+  ],
+  "G": [
+    "Gabun",
+    "Gambia",
+    "Georgien",
+    "Ghana",
+    "Grenada",
+    "Griechenland",
+    "Guatemala",
+    "Guinea",
+    "Guinea-Bissau",
+    "Guyana"
+  ],
+  "H": [
+    "Haiti",
+    "Honduras"
+  ],
+  "I": [
+    "Indien",
+    "Indonesien",
+    "Irak",
+    "Iran",
+    "Irland",
+    "Island",
+    "Israel",
+    "Italien"
+  ],
+  "J": [
+    "Jamaika",
+    "Japan",
+    "Jemen",
+    "Jordanien"
+  ],
+  "K": [
+    "Kambodscha",
+    "Kamerun",
+    "Kanada",
+    "Kap Verde",
+    "Kasachstan",
+    "Katar",
+    "Kenia",
+    "Kirgisistan",
+    "Kiribati",
+    "Kolumbien",
+    "Komoren",
+    "Kroatien",
+    "Kuba",
+    "Kuwait"
+  ],
+  "L": [
+    "Laos",
+    "Lesotho",
+    "Lettland",
+    "Libanon",
+    "Liberia",
+    "Libyen",
+    "Liechtenstein",
+    "Litauen",
+    "Luxemburg"
+  ],
+  "M": [
+    "Madagaskar",
+    "Malawi",
+    "Malaysia",
+    "Malediven",
+    "Mali",
+    "Malta",
+    "Marshall Inseln",
+    "Mauretanien",
+    "Mauritius",
+    "Mazedonien",
+    "Mexiko",
+    "Mikronesien",
+    "Moldawien",
+    "Monaco",
+    "Mongolei",
+    "Montenegro",
+    "Mosambik"
+  ],
+  "N": [
+    "Namibia",
+    "Nauru",
+    "Nepal",
+    "Neuseeland",
+    "Nicaragua",
+    "Niederlande",
+    "Niger",
+    "Nigeria",
+    "Nordkorea",
+    "Norwegen"
+  ],
+  "O": [
+    "Oman",
+    "Oesterreich",
+    "Osttimor"
+  ],
+ 
+  "P": [
+    "Pakistan",
+    "Palau",
+    "Palästina",
+    "Panama",
+    "Papua-Neuguinea",
+    "Paraguay",
+    "Peru",
+    "Philippinen",
+    "Polen",
+    "Portugal"
+  ],
+  "R": [
+    "Republik Kongo",
+    "Ruanda",
+    "Rumänien",
+    "Russland"
+  ],
+  "S": [
+    "Salomonen",
+    "Sambia",
+    "Samoa",
+    "San Marino",
+    "Saudi-Arabien",
+    "Schweden",
+    "Schweiz",
+    "Senegal",
+    "Serbien",
+    "Seychellen",
+    "Sierra Leone",
+    "Simbabwe",
+    "Singapur",
+    "Slowakei",
+    "Slowenien",
+    "Somalia",
+    "Spanien",
+    "Sri Lanka",
+    "St. Kitts und Nevis",
+    "St. Lucia",
+    "St. Vincent und die Grenadinen",
+    "Sudan",
+    "Suriname",
+    "Syrien",
+    "São Tomé und Príncipe",
+    "Südafrika",
+    "Südkorea",
+    "Südsudan"
+  ],
+  "T": [
+    "Tadschikistan",
+    "Tansania",
+    "Thailand",
+    "Togo",
+    "Tonga",
+    "Trinidad und Tobago",
+    "Tschad",
+    "Tschechische Republik",
+    "Tunesien",
+    "Turkmenistan",
+    "Tuvalu",
+    "Türkei"
+  ],
+  "U": [
+    "USA",
+    "Uganda",
+    "Ukraine",
+    "Ungarn",
+    "Uruguay",
+    "Usbekistan"
+  ],
+  "V": [
+    "Vanuatu",
+    "Vatikanstadt",
+    "Venezuela",
+    "Vereinigte Arabische Emirate",
+    "Vereinigtes Königreich",
+    "Vietnam"
+  ],
+  "W": [
+    "Weißrussland",
+    "Wales",
+    "Westsahara"
+  ],
+  "Z": [
+    "Zentralafrikanische Republik",
+    "Zypern"
+  ]
+}
